@@ -1,4 +1,5 @@
-#Homework #1
+#Homework Module 2
+#Law of Large Numbers
 N <- 10000
 counter <- 0
 for(i in rnorm(N)){
